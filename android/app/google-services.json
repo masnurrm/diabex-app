@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "24378079525",
+    "project_id": "diabex-4e49f",
+    "storage_bucket": "diabex-4e49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24378079525:android:c3b3c68c2994a63bb9c2cc",
+        "android_client_info": {
+          "package_name": "com.example.diabex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24378079525-9rnj1qouunnlt7s41fumf5d7ad5g3tk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyW3s7y_wm_mTbrfBC8PBvKwKEAUvGWXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24378079525-369vgcqdhfmc8fef44objmunrdvonver.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24378079525-6vtuo5vr9qn4bnfpdk9b34j8nq8s3b54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diabex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
